@@ -14,6 +14,9 @@ La interfaz gráfica utiliza `Turtle` para mostrar visualmente el recorrido, res
 - MetroAtenas.gif: Foto del mapa del metro de Atenas.
 - metro_Atenas.xlsx: Fichero Excel con las distancias entre estaciones.
 
+## Ejecución
+Descargar archivos y almacenárlos en una misma carpeta. En caso contrario, modificar las rutas de archivo en el código principal y ejecutar. Una vez finalizada la ejecución, para salir de la interfaz, pinchar en cualquier parte de la pantalla. 
+
 ### Prerrequisitos
 
 - Python 3.7 o superior
