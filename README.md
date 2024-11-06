@@ -11,7 +11,7 @@ La interfaz gráfica utiliza `Turtle` para mostrar visualmente el recorrido, res
 ## Vista Previa del Proyecto
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD4BROlYtIY9SC0/giphy.gif" alt="Vista Previa del Proyecto">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z6Y2l5cjlvNWd2b3Zvc2NweTdzeTJlZTd1ejc4YXM3aGdycDQwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92MUpUDTCIKsdNUrBZ/giphy.gif" alt="Vista Previa del Proyecto">
 </div>
 
 ## Archivos
