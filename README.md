@@ -10,6 +10,12 @@ El proyecto implementa el algoritmo de búsqueda A* para optimizar rutas en la r
 
 La interfaz gráfica utiliza `Turtle` para mostrar visualmente el recorrido, resaltando el trayecto con sus respectivas estaciones y transbordos.
 
+## Vista Previa del Proyecto
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD4BROlYtIY9SC0/giphy.gif" alt="Vista Previa del Proyecto">
+</div>
+
 ## Archivos
 
 - MetroAtenas.py: Código que implementa la interfaz y el algoritmo A*.
