@@ -23,7 +23,7 @@ La interfaz gráfica utiliza `Turtle` para mostrar visualmente el recorrido, res
 ## Ejecución
 Descargar archivos y almacenárlos en una misma carpeta. En caso contrario, modificar las rutas de archivo en el código principal y ejecutar. Una vez finalizada la ejecución, para salir de la interfaz, pinchar en cualquier parte de la pantalla. 
 
-## Prerrequisitos
+## Requisitos
 
 - Python 3.7 o superior
 - Networkx
