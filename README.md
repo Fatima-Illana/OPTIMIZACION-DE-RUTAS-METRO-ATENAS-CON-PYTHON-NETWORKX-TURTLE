@@ -2,15 +2,6 @@
 
 Este repositorio contiene un proyecto de simulación de rutas en el metro de Atenas, donde se implementa el algoritmo A* para hallar el camino más corto entre estaciones. Utilizamos Python y las librerías `NetworkX` para el manejo de grafos y `Turtle` para visualizar las rutas.
 
-## Autores
-
-- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
-- [Cristina Fernández Gómez](https://github.com/crisfernandez)
-- [Ester Esteban Bruña](https://github.com/esteresteban)
-- [Patricia Fuxi Alcalde Benítez](https://github.com/patriab)
-- [Paula Velasco López](https://github.com/PauVL)
-- [Rubén Sánchez Fernández](https://github.com/Rub-AI-dev)
-
 ## Vista Previa del Proyecto
 
 <div align="center">
@@ -37,3 +28,12 @@ Descargar archivos y almacenárlos en una misma carpeta. En caso contrario, modi
 - Python 3.7 o superior
 - Networkx
 - Turtle
+
+## Autores
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+- [Cristina Fernández Gómez](https://github.com/crisfernandez)
+- [Ester Esteban Bruña](https://github.com/esteresteban)
+- [Patricia Fuxi Alcalde Benítez](https://github.com/patriab)
+- [Paula Velasco López](https://github.com/PauVL)
+- [Rubén Sánchez Fernández](https://github.com/Rub-AI-dev)
