@@ -2,8 +2,6 @@
 
 Este repositorio contiene un proyecto de simulación de rutas en el metro de Atenas, donde se implementa el algoritmo A* para hallar el camino más corto entre estaciones. Utilizamos Python y las librerías `NetworkX` para el manejo de grafos y `Turtle` para visualizar las rutas.
 
-![Descripción del GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z6Y2l5cjlvNWd2b3Zvc2NweTdzeTJlZTd1ejc4YXM3aGdycDQwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92MUpUDTCIKsdNUrBZ/giphy.gif)
-
 ## Descripción
 
 El proyecto implementa el algoritmo de búsqueda A* para optimizar rutas en la red del metro de Atenas. Usando `NetworkX`, se modela la red de estaciones y sus distancias como un grafo, donde el algoritmo A* calcula el camino óptimo entre una estación origen y una de destino.
