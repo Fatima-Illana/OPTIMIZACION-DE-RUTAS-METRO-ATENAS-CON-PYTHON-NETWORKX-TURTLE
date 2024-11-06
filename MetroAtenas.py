@@ -84,8 +84,8 @@ Estaciones: Dict[str, tuple] = {
 tr = Turtle()
 wn = Screen()
 # wn.addshape('MetroAtenas.gif')
-wn.addshape("C:/Users/igfat/Documents/Curso 4/Github/MetroAtenas/MetroAtenas.gif")
-tr.shape('C:/Users/igfat/Documents/Curso 4/Github/MetroAtenas/MetroAtenas.gif')
+wn.addshape("./MetroAtenas.gif")
+tr.shape('./MetroAtenas.gif')
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Establecemos las dimensiones de la pantalla y del puntero, y el título de la pantalla.
@@ -122,7 +122,7 @@ penup()
 # Aplicamos el algoritmo A*.
 # ----------------------------------------------------------------------------------------------------------------------
 
-df = pd.read_excel("C:/Users/igfat/Documents/Curso 4/Github/MetroAtenas/metro_Atenas.xlsx")
+df = pd.read_excel("./metro_Atenas.xlsx")
 # df = pd.read_excel('metro_Atenas.xlsx')
 METRO = nx.from_pandas_edgelist(df, source='Origen', target='Destino', edge_attr='Distancia')
 METRO.nodes()
