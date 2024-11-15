@@ -36,4 +36,4 @@ Descargar archivos y almacenárlos en una misma carpeta. En caso contrario, modi
 - [Ester Esteban Bruña](https://github.com/esteresteban)
 - [Patricia Fuxi Alcalde Benítez](https://github.com/patriab)
 - [Paula Velasco López](https://github.com/PauVL)
-- [Rubén Sánchez Fernández](https://github.com/Rub-AI-dev)
+- [Rubén Sánchez Fernández](https://github.com/rubykoom)
